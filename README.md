@@ -56,7 +56,7 @@ README.md
 Requires MySQL 8.0+ with the Sakila schema and data loaded.
 
 ```bash
-git clone https://github.com/gouravjagde/sakila-rental-analytics.git
+git clone https://github.com/gouravjagde/DVD-Rental-Business-SQL-Analysis.git
 cd sakila-rental-analytics
 
 mysql -u root -p sakila < sql/01_film_and_payment_filters.sql
