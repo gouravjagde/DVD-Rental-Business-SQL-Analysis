@@ -1,6 +1,6 @@
 # Sakila Rental Analytics (MySQL)
 
-Repository: https://github.com/gouravjagde/sakila-rental-analytics
+Repository: https://github.com/gouravjagde/DVD-Rental-Business-SQL-Analysis
 
 SQL analysis of the [Sakila sample database](https://dev.mysql.com/doc/sakila/en/), a fictional two-store DVD rental business (1,000 films, 599 customers, 16,044 rentals, about $67.4K in payments). Each script is built around questions a manager would actually ask, and each section below gives the question, the result, and what it means. One script also changes the schema to turn the flat `category` table into a two-level hierarchy.
 
