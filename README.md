@@ -1,4 +1,4 @@
-# Sakila Rental Analytics (MySQL)
+# DVD Rental Business SQL Analysis (MySQL)
 
 Repository: https://github.com/gouravjagde/DVD-Rental-Business-SQL-Analysis
 
