@@ -1,4 +1,4 @@
-# DVD Rental Business SQL Analysis (MySQL)
+# DVD Rental Business SQL Analysis
 
 Repository: https://github.com/gouravjagde/DVD-Rental-Business-SQL-Analysis
 
@@ -57,7 +57,7 @@ Requires MySQL 8.0+ with the Sakila schema and data loaded.
 
 ```bash
 git clone https://github.com/gouravjagde/DVD-Rental-Business-SQL-Analysis.git
-cd sakila-rental-analytics
+cd DVD-Rental-Business-SQL-Analysis
 
 mysql -u root -p sakila < sql/01_film_and_payment_filters.sql
 mysql -u root -p sakila < sql/02_store_and_customer_metrics.sql
